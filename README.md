@@ -16,9 +16,6 @@ This Angular Todo App provides a straightforward and user-friendly interface for
 
 - **Responsive Design**: The app is designed to work seamlessly on both desktop and mobile devices.
 
-## Demo
-
-![Demo](https://drive.google.com/drive/folders/1MS2Hn-iWj164L6uNLPrqkhhrNHemQyGj?usp=share_link)
 
 ## Getting Started
 
